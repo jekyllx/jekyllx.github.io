@@ -4,6 +4,6 @@ layout: home
 permalink: /
 ---
 
-# xrv.kr
+# jekyllx.jp
 
 안녕하세요.
